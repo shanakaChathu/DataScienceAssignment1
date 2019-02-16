@@ -1,0 +1,15 @@
+Hypothesis:
+
+group1:Kids less than 2 
+group 2: kids  greater than 2 
+
+H0: There is difference of eraning accroding to the number of kids 
+H1: There is no difference of earnings according to the number of kids 
+
+Test: 2-samplae t -test 
+
+P-value : 2.408020927453231e-41
+
+decision : Reject h0 at 95% confidence since p-value < 0.05 
+
+Conclusion: We can conlude that there is signigance difference of earning according to the number of kids 
