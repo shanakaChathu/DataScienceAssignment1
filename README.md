@@ -114,3 +114,25 @@ It concludes that average earnings of married and other people is not equal and 
 95% confidence interval for Average earnings (per year) for married people ($18720, $20058)
 
 95% confidence interval for Average earnings (per year) other people ($17269, $18989)
+
+##### Analysis 6 Hypothesis: There is no correlation between Earning and Education level 
+
+- H0: There is a correlation between earnigs and education level 
+- H1: There is no correlation between earnings and eductaion level 
+
+Observed correlation values between earnings and educations level.Correlation value between earnings and education level was 0.379. P-value for this was 3.686745979111728x10-155.This is lower than 0.05. Therefore we can rejject the null hypothesis
+
+##### Analysis 7 Hypothesis: There is no correlation between Earning and Work 
+
+- H0: There is a correlation between earnings and work 
+- H1: There is no correlation between earnings and work
+
+Observed correlation values between earnings and work.Correlation value between earnings and workwas 0.6272. P-value for this was 3.6867459791x10-155.This is lower than 0.05. Therefore we can reject the null hypothesis
+
+##### Analysis 8 Hypothesis: There is no correlation between Earning and Age 
+
+- H0: There is a correlation between earnings and age 
+- H1: There is no correlation between earnings and age
+
+Observed correlation values between earnings and work.Correlation value between earnings and workwas 0.6272. P-value for this was 3.6867459791x10-155.This is lower than 0.05. Therefore we can reject the null hypothesis
+
