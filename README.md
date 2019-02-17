@@ -17,6 +17,6 @@ This sample is taken for an age group between 30-50. Sample contains bias record
 ### Team & their responsibilities
 - Heshan – Investigating about the biasness of the data set. Perform Statistical Tests for Analysis 1 -5.
 - Shanaka –
-- Nicum –  Perform correlation tests for Work vs Earnings, Perform correlation tests for Educaion Level vs Earnings
-- Navoda – Perform correlation tests for Age vs Earnings
+- Nicum –  Perform correlation tests for Work vs Earnings(Activity 7), Perform correlation tests for Educaion Level vs Earnings(Activity 6)
+- Navoda – Perform correlation tests for Age vs Earnings(Activity 8)
 
