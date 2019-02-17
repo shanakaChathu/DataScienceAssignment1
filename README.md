@@ -7,8 +7,15 @@ This sample is taken for an age group between 30-50. Sample contains bias record
 •	People with age over 40 years earnings are different than the people with age less than 40 years earnings.
 •	People with age over 40 years working hours are different than the people with age less than 40 years working hours.
 •	Earnings of people with high educational levels are different than earnings of the people with low educational levels
-•	Working hours of the people with high educational levels are different than the working hours of the people with low educational levels
+•	Working hours of the people with high educational levels are different than the working hours of the people with low educational 
+        levels
 •	There is a difference between earnings of married and other people
+•	There is a difference between average earnings of people who are having 2 or few kids with respect to the people who are having 
+        more than 2 kids.
+•	Earnings of a person depends with the age of the person 
+•	Earnings of a person depends on how many hours they work 
+•	Earnings of a person depends on the education level of the pearson
+
 
 ### Assumptions
 •	NA, 98, 99 are codes to identify missing values. Because of that we excluded records with NA, 98, 99 from our analysis.
@@ -19,6 +26,25 @@ This sample is taken for an age group between 30-50. Sample contains bias record
 - Shanaka – Perform Statistical Tests for Analysis 5 -6
 - Nicum –  Perform correlation tests for Work vs Earnings, Perform correlation tests for Educaion Level vs Earnings
 - Navoda – Perform correlation tests for Age vs Earnings
+
+### Executive Summary 
+We analyzed Panel Study of Income Dynamics (PSID) data set of 4000+ individuals. Following are our important high level findings from our analysis. 
+•There is a clear difference between average earnings and working hours of a person with age less than 40 and average earnings and  
+ working hours of a person with age greater than or equal to 40. Individuals with a greater than or equal to 40 works more hours and 
+ earns more than individuals with age less than 40
+•There is a clear difference between average earning of a person with high educational level and average earnings of a person with low 
+ educational level. Average earnings of a person with High Educational Level is significantly higher than average earnings of a person 
+ with lower education level. But there is a no difference between average working hours of a person with high educational level and  
+ average working hours of a person with low educational level.
+•There is a significant difference between average earnings of married individuals and others. Average earnings of married people is 
+ higher than average earnings of other people.
+•There is a significant difference between average earnings of people who are having 2 or few kids with respect to the people who are 
+ having more than 2 kids.
+•Correlation between earnings and the number of hours worked is about .0.6 that is there is a high positive linear relationship between 
+ the two variables.
+•Correlation between earnings and the age is about 0.09 that is there is a no linear relationship between two variables.
+•Correlation between earnings and the education is about 0.37. That is there is a moderate linear relationship between two variables.
+
 
 ## Analytics Report
 
