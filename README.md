@@ -18,5 +18,5 @@ This sample is taken for an age group between 30-50. Sample contains bias record
 - Heshan – Investigating about the biasness of the data set. Perform Statistical Tests for Analysis 1 -5.
 - Shanaka –
 - Nicum –
-- Navoda –
+- Navoda – Perform correlation tests for Age vs Eraning
 
