@@ -15,8 +15,8 @@ This sample is taken for an age group between 30-50. Sample contains bias record
 •	Earnings and Hours contains zeros. We assumed these people might not possible to be the Unemployed. These zeros are there because of those individuals didn’t respond to that question in the survey.
 
 ### Team & their responsibilities
-- Heshan – Investigating about the biasness of the data set. Perform Statistical Tests for Analysis 1 -5.
-- Shanaka –
+- Heshan – Investigating about the biasness of the data set. Perform Statistical Tests for Analysis 1 -4.
+- Shanaka – Perform Statistical Tests for Analysis 5 -6
 - Nicum –  Perform correlation tests for Work vs Earnings, Perform correlation tests for Educaion Level vs Earnings
 - Navoda – Perform correlation tests for Age vs Earnings
 
@@ -120,27 +120,41 @@ It concludes that average earnings of married and other people is not equal and 
 
 95% confidence interval for Average earnings (per year) other people ($17269, $18989)
 
-### Analysis 6 
+
+
+### Analysis 6 Hypothesis: There is a difference between earnings of people with 2 or less than 2 kids and people with more than 2 kids
+H0: Average earnings for people with 2 or less than 2 kids
+H1: Average earnings for people with more than 2 kids
+
+Decision: According to the 2 -sample t test it can be seen that p value is less than 0.05. Therefore we reject h0 at 0.05 significance level
+
+Conclusion: Average earnings for people with 2 or less than 2 kids and average earnings for people with more than 2 kids have significant difference
+`
+95% confidence interval for Average earnings (per year) for people with 2 or less than 2 kids ($20208, $21591)
+
+95% confidence interval for Average earnings (per year) for people with more than 2 kids ($14238, $15681)
+
+### Analysis 7 
 ##### Hypothesis: There is no correlation between Earning and Education level 
 
-- H0: There is a correlation between earnigs and education level 
-- H1: There is no correlation between earnings and eductaion level 
+- H0: There is no correlation between earnigs and education level 
+- H1: There is a correlation between earnings and eductaion level 
 
 Observed correlation values between earnings and educations level.Correlation value between earnings and education level was 0.379. P-value for this was 3.686745979111728x10-155.This is lower than 0.05. Therefore we can rejject the null hypothesis
 
-### Analysis 7 
+### Analysis 8 
 ##### Hypothesis: There is no correlation between Earning and Work 
 
-- H0: There is a correlation between earnings and work 
-- H1: There is no correlation between earnings and work
+- H0: There is no correlation between earnings and work 
+- H1: There is a correlation between earnings and work
 
 Observed correlation values between earnings and work.Correlation value between earnings and workwas 0.6272. P-value for this was 3.6867459791x10-155.This is lower than 0.05. Therefore we can reject the null hypothesis
 
-### Analysis 8 
+### Analysis 9 
 ##### Hypothesis: There is no correlation between Earning and Age 
 
-- H0: There is a correlation between earnings and age 
-- H1: There is no correlation between earnings and age
+- H0: There is no correlation between earnings and age 
+- H1: There is a correlation between earnings and age
 
 Observed correlation values between earnings and work.Correlation value between earnings and age was 0.0924. P-value for this was 3.6867459791x10-155.This is lower than 0.05. Therefore we can reject the null hypothesis
 
