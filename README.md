@@ -15,8 +15,8 @@ This sample is taken for an age group between 30-50. Sample contains bias record
 •	Earnings and Hours contains zeros. We assumed these people might not possible to be the Unemployed. These zeros are there because of those individuals didn’t respond to that question in the survey.
 
 ### Team & their responsibilities
-Heshan – Investigating about the biasness of the data set. Perform Statistical Tests for Analysis 1 -5.
-Shanaka –
-Nicum –
-Navoda –
+- Heshan – Investigating about the biasness of the data set. Perform Statistical Tests for Analysis 1 -5.
+- Shanaka –
+- Nicum –
+- Navoda –
 
