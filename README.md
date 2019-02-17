@@ -33,7 +33,8 @@ We also noticed there are ~25% of the individuals without earnings. But since ou
 
 #### Provide your analytical insights on Hypothesis, Confident Intervals & Sample statistics
 
-##### Analysis 1 Hypothesis: People with age over 40 years earnings are different than the people with age less than 40 years
+### Analysis 1 
+##### Hypothesis: People with age over 40 years earnings are different than the people with age less than 40 years
 - H0: Average earnings of a person with age less than 40 is equal to Average earning of a person with age greater than or equal to 40 years
 - H1:Average earnings of a person with age less than 40 is not equal to Average earning of a person with age greater than or equal to 40 years
 
@@ -49,7 +50,8 @@ According to the sample summary statistics Average earnings of a person with age
 95% confidence interval for Average earnings (per year) of a person with age less than 40 years is ($19605, $21198). We can say if a person’s age less than 40 his salary should be in the interval ($19605, $21198) at a 95% level of confidence.
 
 
-##### Analysis 2 Hypothesis: People with age over 40 years working hours are different than the people with age less than 40 years
+### Analysis 2 
+##### Hypothesis: People with age over 40 years working hours are different than the people with age less than 40 years
 - H0: Average working hours(per year) of a person with age less than 40 is equal to Average working hours of a person with age greater than or equal to 40 years
 - H1:Average working hours(per year) of a person with age less than 40 is not equal to Average working hours(per year) of a person with age greater than or equal to 40 years
 
@@ -64,7 +66,8 @@ According to the sample summary statistics Average working hours(per year) of a 
 
 95% confidence interval for Average working hours (per year) of a person with age less than 40 years is (1562, 1625). 
 
-##### Analysis 3 Hypothesis: Earnings of people with high educational levels are different than earnings of the people with low educational levels
+### Analysis 3 
+##### Hypothesis: Earnings of people with high educational levels are different than earnings of the people with low educational levels
 
 - H0: Average earning of a person with High Educational Level is equal to Average earning of a person with Low Educational Level
 - H1: Average earnings of a person with High Educational Level is not equal to Average earning of a person with Low Educational Level
@@ -84,7 +87,8 @@ Which shows that people with High Educational levels earns more than the people 
 
 95% confidence interval for Average earnings (per year) of a person with Low Educational Level ($14434, $15370)
 
-##### Analysis 4 Hypothesis: Working hours of the people with high educational levels are different than the working hours of the people with low educational levels
+### Analysis 4 
+##### Hypothesis: Working hours of the people with high educational levels are different than the working hours of the people with low educational levels
 
 - H0: Average working hours (per year) of a person with High Educational Level is equal to Average working hours of a person with Low Educational Level
 - H1: Average working hours (per year) of a person with High Educational Level is not equal to Average working hours (per year) of a person with Low Educational Level
@@ -100,7 +104,8 @@ According to the sample summary statistics average working hours (per year) of a
 
 95% confidence interval for Average working hours (per year) of a person with Low Educational Level is (1590, 1651)
 
-##### Analysis 5 Hypothesis: There is a difference between earnings of married and other people
+### Analysis 5 
+##### Hypothesis: There is a difference between earnings of married and other people
 
 - H0: Married and Other Peoples Average Earnings are equal
 - H1: Married and Other Peoples Average Earnings are not equal
@@ -115,21 +120,24 @@ It concludes that average earnings of married and other people is not equal and 
 
 95% confidence interval for Average earnings (per year) other people ($17269, $18989)
 
-##### Analysis 6 Hypothesis: There is no correlation between Earning and Education level 
+### Analysis 6 
+##### Hypothesis: There is no correlation between Earning and Education level 
 
 - H0: There is a correlation between earnigs and education level 
 - H1: There is no correlation between earnings and eductaion level 
 
 Observed correlation values between earnings and educations level.Correlation value between earnings and education level was 0.379. P-value for this was 3.686745979111728x10-155.This is lower than 0.05. Therefore we can rejject the null hypothesis
 
-##### Analysis 7 Hypothesis: There is no correlation between Earning and Work 
+### Analysis 7 
+##### Hypothesis: There is no correlation between Earning and Work 
 
 - H0: There is a correlation between earnings and work 
 - H1: There is no correlation between earnings and work
 
 Observed correlation values between earnings and work.Correlation value between earnings and workwas 0.6272. P-value for this was 3.6867459791x10-155.This is lower than 0.05. Therefore we can reject the null hypothesis
 
-##### Analysis 8 Hypothesis: There is no correlation between Earning and Age 
+### Analysis 8 
+##### Hypothesis: There is no correlation between Earning and Age 
 
 - H0: There is a correlation between earnings and age 
 - H1: There is no correlation between earnings and age
