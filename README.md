@@ -140,7 +140,7 @@ Conclusion: Average earnings for people with 2 or less than 2 kids and average e
 - H0: There is no correlation between earnigs and education level 
 - H1: There is a correlation between earnings and eductaion level 
 
-Observed correlation values between earnings and educations level.Correlation value between earnings and education level was 0.379. P-value for this was 3.686745979111728x10-155.This is lower than 0.05. Therefore we can rejject the null hypothesis
+Observed correlation values between earnings and educations level.Correlation value between earnings and education level was 0.379. P-value for this was 3.686745979111728x10-155.This is lower than 0.05. Therefore we can rejject the null hypothesis.That is there is a moderate linear relationship between two variables.
 
 ### Analysis 8 
 ##### Hypothesis: There is no correlation between Earning and Work 
@@ -148,7 +148,7 @@ Observed correlation values between earnings and educations level.Correlation va
 - H0: There is no correlation between earnings and work 
 - H1: There is a correlation between earnings and work
 
-Observed correlation values between earnings and work.Correlation value between earnings and workwas 0.6272. P-value for this was 3.6867459791x10-155.This is lower than 0.05. Therefore we can reject the null hypothesis
+Observed correlation values between earnings and work.Correlation value between earnings and workwas 0.6272. P-value for this was 3.6867459791x10-155.This is lower than 0.05. Therefore we can reject the null hypothesis.There is a high positive linear relationship between the two variables
 
 ### Analysis 9 
 ##### Hypothesis: There is no correlation between Earning and Age 
@@ -156,5 +156,5 @@ Observed correlation values between earnings and work.Correlation value between 
 - H0: There is no correlation between earnings and age 
 - H1: There is a correlation between earnings and age
 
-Observed correlation values between earnings and work.Correlation value between earnings and age was 0.0924. P-value for this was 3.6867459791x10-155.This is lower than 0.05. Therefore we can reject the null hypothesis
+Observed correlation values between earnings and work.Correlation value between earnings and age was 0.0924. P-value for this was 3.6867459791x10-155.This is lower than 0.05. Therefore we can reject the null hypothesis.There is a no linear relationship between two variables
 
